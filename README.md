@@ -135,24 +135,75 @@ SimpleTaskManager/
 - ✅ HTTP-only authentication
 - ✅ Input validation
 
-## 🎨 UI Screenshots
+## 🎨 Application Screenshots
 
-### Login Page
-- Clean, modern authentication form
-- Real-time form validation
-- Responsive design
+### 1. Login Page
+Beautiful, modern authentication interface with real-time validation.
 
-### Task Dashboard
-- Task statistics overview
-- Create/Edit/Delete tasks
-- Toggle task status
-- Beautiful card-based layout
+![Login Page](screenshots/login-page.png)
 
-### Features
-- Loading indicators
-- Success/error notifications
-- Confirmation dialogs
-- Mobile-responsive
+---
+
+### 2. Registration Page
+Clean registration form with validation and user-friendly error messages.
+
+![Registration Page](screenshots/signin-page.png)
+
+---
+
+### 3. Task Dashboard - Empty State
+Welcome screen when no tasks exist yet, encouraging users to create their first task.
+
+![Empty Dashboard](screenshots/empty-dashboard.png)
+
+---
+
+### 4. Create Task Modal
+Intuitive modal interface for creating new tasks with title, description, and status.
+
+![Create Task](screenshots/create-task-modal.png)
+
+---
+
+### 5. Task Dashboard with Tasks
+Main dashboard showing task statistics and list of all tasks with action buttons.
+
+![Dashboard with Tasks](screenshots/dashboard-with-tasks.png)
+
+---
+
+### 6. Task Management
+Complete task view with edit, status toggle, and delete functionality.
+
+![Task Management](screenshots/dashboard.png)
+
+---
+
+### 7. Edit Task Modal
+Update existing tasks with pre-filled form data.
+
+![Edit Task](screenshots/edit-task-page.png)
+
+---
+
+### 8. Completed Tasks
+Tasks marked as completed with visual indicators and updated statistics.
+
+![Completed Tasks](screenshots/dashboard-2.png)
+
+---
+
+### Key UI Features Shown:
+- ✅ Clean, modern design with Tailwind CSS
+- ✅ Responsive layout that works on all devices
+- ✅ Real-time form validation
+- ✅ Task statistics dashboard (Total, Pending, Completed)
+- ✅ Intuitive CRUD operations
+- ✅ Status toggle functionality
+- ✅ Modal-based forms
+- ✅ User-friendly navigation
+- ✅ Professional color scheme
+- ✅ Loading states and animations
 
 ## 🧪 Testing
 
